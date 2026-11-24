@@ -28,8 +28,8 @@
 ## Збірка та встановлення
 
 ```bash
-git clone <адреса цього репозиторію>
-cd <папка репозиторію>
+git clone https://github.com/Poohovskiy/sleep-timer-macos.git
+cd sleep-timer-macos
 
 bash build.sh
 
